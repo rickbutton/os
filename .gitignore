@@ -1,0 +1,5 @@
+build
+.ycm_extra_conf.pyc
+
+#Kernel specific
+kernel/include/scantable.inc # keyboard stuff that is autogen
